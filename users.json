@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Admin",
+      "email": "admin@pouwercity.nl",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "name": "Docent",
+      "email": "docent@pouwercity.nl",
+      "password": "docent123",
+      "role": "docent"
+    },
+    {
+      "id": 3,
+      "name": "Student",
+      "email": "student@pouwercity.nl",
+      "password": "student123",
+      "role": "student"
+    },
+    {
+      "id": 1,
+      "name": "Gouverneur",
+      "email": "gouverneur@pouwercity.nl",
+      "password": "gouverneur123",
+      "role": "gouverneur"
+    }
+  ]
+}
